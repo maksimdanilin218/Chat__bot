@@ -1,0 +1,14 @@
+C:\Users\maksi\source\repos\Чат бот, контрольное задание\bin\Debug\net8.0\Чат бот, контрольное задание.exe
+C:\Users\maksi\source\repos\Чат бот, контрольное задание\bin\Debug\net8.0\Чат бот, контрольное задание.deps.json
+C:\Users\maksi\source\repos\Чат бот, контрольное задание\bin\Debug\net8.0\Чат бот, контрольное задание.runtimeconfig.json
+C:\Users\maksi\source\repos\Чат бот, контрольное задание\bin\Debug\net8.0\Чат бот, контрольное задание.dll
+C:\Users\maksi\source\repos\Чат бот, контрольное задание\bin\Debug\net8.0\Чат бот, контрольное задание.pdb
+C:\Users\maksi\source\repos\Чат бот, контрольное задание\obj\Debug\net8.0\Чат бот, контрольное задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\source\repos\Чат бот, контрольное задание\obj\Debug\net8.0\Чат бот, контрольное задание.AssemblyInfoInputs.cache
+C:\Users\maksi\source\repos\Чат бот, контрольное задание\obj\Debug\net8.0\Чат бот, контрольное задание.AssemblyInfo.cs
+C:\Users\maksi\source\repos\Чат бот, контрольное задание\obj\Debug\net8.0\Чат бот, контрольное задание.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\Чат бот, контрольное задание\obj\Debug\net8.0\Чат бот, контрольное задание.dll
+C:\Users\maksi\source\repos\Чат бот, контрольное задание\obj\Debug\net8.0\refint\Чат бот, контрольное задание.dll
+C:\Users\maksi\source\repos\Чат бот, контрольное задание\obj\Debug\net8.0\Чат бот, контрольное задание.pdb
+C:\Users\maksi\source\repos\Чат бот, контрольное задание\obj\Debug\net8.0\Чат бот, контрольное задание.genruntimeconfig.cache
+C:\Users\maksi\source\repos\Чат бот, контрольное задание\obj\Debug\net8.0\ref\Чат бот, контрольное задание.dll
